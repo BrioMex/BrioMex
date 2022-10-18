@@ -2,4 +2,4 @@
 - 👀 I’m interested in prototyping and learning
 - 🌱 I’m currently learning pyhton and Django
 - 💞️ I’m looking to become backend
-- 📫 How to reach me briomex@gmail.com
+- 📫 How to contact me briomex@gmail.com
