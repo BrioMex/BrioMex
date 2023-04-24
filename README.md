@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrioMex
 - 👀 I’m interested in prototyping and learning
-- 🌱 I’m currently learning postrgesql
+- 🌱 I’m currently learning aws
 - 💞️ I’m looking to become a better developer.
 - 📫 How to contact me briomex@gmail.com
