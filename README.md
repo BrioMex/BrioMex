@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BrioMex
-- 👀 I’m interested in prototyping and learning
-- 🌱 I’m currently learning aws
+- 👋 Hi, I’m @BrioMex, currently working as Backend developer.
+- 👀 I’m interested in web development, prototyping and learning.
+- 🌱 I’m currently learning terraform.
 - 💞️ I’m looking to become a better developer.
-- 📫 How to contact me briomex@gmail.com
+- 📫 Contact: briomex@gmail.com.
